@@ -17,6 +17,6 @@ This project demonstrates how to dynamically create styled toast notifications u
 
 ## 🛠️ Tech Stack :--
 
-🧱 HTML5  
-🎨 CSS3
-⚙️ JavaScript
+🧱 HTML5 
+🎨 CSS3 
+⚙️ JavaScript 
