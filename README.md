@@ -1,6 +1,6 @@
-# 🔔 Toast Notification App
+# 🔔 Toast Notification
 
-A simple and responsive toast notification app that displays random messages with different types (info, success, error) when a button is clicked. Notifications auto-dismiss after a short delay.
+A simple and responsive toast notification app that displays random messages with different types when a button is clicked. Notifications auto-dismiss after a short delay.
 
 ## 🌄 Description
 
