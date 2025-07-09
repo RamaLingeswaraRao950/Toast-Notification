@@ -4,7 +4,7 @@ A simple and responsive toast notification app that displays random messages wit
 
 ## 🌄 Description
 
-This project demonstrates how to dynamically create styled toast notifications using pure web technologies. Each click triggers a random message with a random style.
+It demonstrates how to dynamically create styled toast notifications using pure web technologies. Each click triggers a random message with a random style.
 
 ## ✨ Features :--
 
@@ -17,6 +17,6 @@ This project demonstrates how to dynamically create styled toast notifications u
 
 ## 🛠️ Tech Stack :--
 
-🧱 HTML5 
+🧱 HTML5  
 🎨 CSS3 
 ⚙️ JavaScript 
